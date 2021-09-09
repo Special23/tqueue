@@ -1,2 +1,2 @@
-# goqueue
+# queue
 #golang free lock queue.
